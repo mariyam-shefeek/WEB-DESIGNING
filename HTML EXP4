@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-image: url('https://www.keralapackage.org/wp-content/uploads/2017/09/kottayam-image.jpg'); 
+            background-position: center;
+            color: white;
+            text-align: center;
+            padding: 100px 0;
+            position: relative;
+        }
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        header * {
+            position: relative;
+            z-index: 1; 
+        }
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        .content h2 {
+            color: #0078d4;
+            margin-bottom: 20px;
+        }
+        .content p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .content a {
+            color: #0078d4;
+            text-decoration: none;
+        }
+        .content a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #eee;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Kottayam</h1>
+        <p>The Land of Letters and Lakes</p>
+    </header>
+
+    <div class="content">
+        <h2>Discover Kottayam</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Kumarkom.jpg" alt="Vembanad Lake in Kottayam" width="800" height="400"> <p>Kottayam, nestled in the heart of Kerala, India, is a picturesque town known for its rich cultural heritage, lush landscapes, and serene backwaters. Often referred to as "Akshara Nagari" (City of Letters), it boasts a high literacy rate and a vibrant educational scene.</p>
+        <p>Explore the tranquil Vembanad Lake, visit ancient churches and temples, and savor the delectable Kerala cuisine. Kottayam offers a unique blend of tradition and modernity, making it a must-visit destination.</p>
+        <p>Learn more about Kottayam on <a href="https://en.wikipedia.org/wiki/Kottayam" target="_blank">Wikipedia</a>.</p>
+    </div>
+
+    <div class="content">
+        <h2>Things to See</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Kottayam_Collage.jpg" alt="Thirunakkara Temple" width="800" height="400">
+        <p>Thirunakkara Sree Mahadeva Temple, Illikkal Kallu, and the backwaters are only a few of the many beautiful attractions in Kottayam.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Welcome to Kottayam</p>
+    </footer>
+
+</body>
+</html>
