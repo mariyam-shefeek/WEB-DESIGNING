@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Blog Post</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .blog-post {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            max-width: 800px;
+            margin: auto;
+        }
+        .blog-post h1 {
+            color: #333;
+        }
+        .blog-post .date {
+            color: #888;
+            font-size: 0.9em;
+        }
+        .blog-post p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="blog-post">
+        <h1>My First Blog Post</h1>
+        <p class="date">March 29, 2025</p>
+        <p>
+            Welcome to my blog! This is my very first post. I'm excited to start sharing my thoughts, experiences,
+            and ideas with you. Stay tuned for more updates as I continue to explore new topics and write about
+            the things I'm passionate about.
+        </p>
+        <p>
+            In upcoming posts, I’ll be covering a variety of subjects including technology, lifestyle, personal growth,
+            and much more. Thank you for joining me on this journey!
+        </p>
+    </div>
+</body>
+</html>
