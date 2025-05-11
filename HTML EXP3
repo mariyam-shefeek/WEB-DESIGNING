@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MARIYAM SHAFEEK - Resume</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #e3f2fd; color: #333; margin: 0; padding: 0;">
+
+    <header style="background-color: #1565c0; color: white; text-align: center; padding: 20px;">
+        <h1>MARIYAM SHAFEEK</h1>
+    </header>
+
+    <section style="padding: 20px;">
+        <h2 style="color: #1565c0;">Contact Information</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li><strong>Email:</strong> <a href="mailto:mariyamshafeek@gmail.com" style="color: #0d47a1;">mariyamshafeek@gmail.com</a></li>
+            <li><strong>Phone:</strong> <a href="tel:+916282944756" style="color: #0d47a1;">+91 6282 944 756 </a></li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mariyam-shefeek-600281327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="color: #0d47a1;">https://www.linkedin.com/in/mariyam-shefeek-600281327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></li>
+        </ul>
+    </section>
+
+    <hr style="border: 1px solid #1565c0;">
+
+    <section style="padding: 20px;">
+        <h2 style="color: #1565c0;">Education</h2>
+        <p><strong>B.Tech in Computer Science Engineering</strong><br>
+        Amal Jyothi College of Engineering (2024 - 2028)</p>
+    </section>
+
+    <hr style="border: 1px solid #1565c0;">
+
+    <section style="padding: 20px;">
+        <h2 style="color: #1565c0;">Skills</h2>
+        <table border="1" cellpadding="10" cellspacing="0" style="width: 100%; background-color: #ffffff; border-collapse: collapse;">
+            <tr>
+                <td>HTML, CSS, JavaScript</td>
+                <td>Python, Java</td>
+            </tr>
+            <tr>
+                <td>Database Management (MySQL)</td>
+                <td>UI/UX Design (Figma, Adobe XD)</td>
+            </tr>
+        </table>
+    </section>
+
+    <hr style="border: 1px solid #1565c0;">
+
+    <section style="padding: 20px;">
+        <h2 style="color: #1565c0;">Experience</h2>
+        <p><strong>Frontend Developer Intern</strong> - ABC Tech</p>
+    </section>
+
+    <hr style="border: 1px solid #1565c0;">
+
+    <section style="padding: 20px;">
+        <h2 style="color: #1565c0;">Projects</h2>
+        <ul>
+            <li><strong>Knowva:</strong> A marketplace for study notes.</li>
+            <li><strong>Donna:</strong> An expiry tracker for stored products.</li>
+        </ul>
+    </section>
+
+    <hr style="border: 1px solid #1565c0;">
+
+    <section style="padding: 20px;">
+        <h2 style="color: #1565c0;">Languages</h2>
+        <ul>
+            <li>English</li>
+            <li>Malayalam</li>
+        </ul>
+    </section>
+
+</body>
+</html>
