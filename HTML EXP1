@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<frameset rows="50%,50%">
+  <frameset cols="50%,50%">
+    <frame src="" style="background-color:orange;">
+    <frame src="" style="background-color:yellow;">
+  </frameset>
+  <frameset cols="50%,50%">
+    <frame src="" style="background-color:green;">
+    <frame src="" style="background-color:pink;">
+  </frameset>
+</frameset>
+</html>
