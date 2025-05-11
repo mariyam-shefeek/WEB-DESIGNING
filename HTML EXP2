@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+<title>AMAL JYOTHI COLLEGE OF ENGINEERING AUTONOMOUS</title> 
+<style>
+header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+       }
+        .courses li, .departments li, .faculty li {
+            background-color: #ADD8E6;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+</style>   
+</head>
+<body>
+<center><h1 id="top"><marquee>Amal Jyothi College Of Engineering</marquee></h1></center>
+<header>
+<h1><center>AMAL JYOTHI COLLEGE OF ENGINEERING AUTONOMOUS</h1>
+<p>KERALA'S LARGEST INFRASTRUCTURE FOR ENGINEERING EDUCATION WITH 7 NBA ACCREDITED PROGRAMS</p>
+</header>
+<p>
+<center><img src="https://www.ajce.in/home/images/Gallery-widget_ajce.jpg" width="400" height="400"></center>
+</p>
+<nav>
+<a href="#courses">Courses</a>
+<a href="#departments">Departments</a>
+<a href="#faculty">Faculty</a>
+<a href="#library">Library</a>
+</nav>
+<div class="container">
+<div class="section" id="courses">
+<h2>Courses</h2>
+<div class="courses">
+<ul>
+<li>B.Tech</li>
+<li>M.Tech</li>
+<li>BCA</li>
+<li>MCA</li>
+<li>Int.MCA</li>
+</ul>
+</div>
+</div>
+<div class="section" id="departments">
+<h2>Departments</h2>
+<div class="departments">
+<ul>
+<li><strong>Chemical Engineering</strong>:The Department of Chemical Engineering started its meritorious journey in 2013, 
+with the objective of moulding young minds with outstanding excellence in the field of Chemical Engineering and Technology.</li>
+<li><strong>Civil Engineering:</strong>The Dept. is also privileged to have an extremely dynamic and dedicated faculty whose expertise has been widely acknowledged. 
+Civil engineers build the world’s infrastructure, which enables them to have opportunities galore with new players entering the market and large- scale developments announced around the globe.
+</li>
+<li><strong>Computer Science & Engineering:</strong>The Dept of Computer Science and Engineering is one of the best units that has always enhanced the glory of AJCE.</li>
+<li><strong>Food Technology:</strong>Food processing industry is very vast and versatile, and it provides promising career opportunities to the young generation.</li>
+<li><strong>Electronics & Communication Engineering:</strong>The Department of Electronics and Communication Engineering started its commendable journey in 2001. With excellent infrastructure and full- fledged faculty, 
+the department has always been in the path of rapid progress, making it one of the premier departments of Amal Jyothi</strong></li>
+<li><strong>Electrical & Electronics Engineering:</strong>The Department of Electrical and Electronics Engineering was established in 2001. 
+Postgraduate courses in Power Electronics and Power Systems were introduced in 2009, followed by Energy Systems in 2013.</li>
+<li><strong>Mechanical Engineering:</strong>The Department of Mechanical Engineering began its remarkable journey in 2004 and has been committed to excellence ever since. With a focus on shaping skilled and dedicated professionals,
+we uphold the highest standards in education while fostering academic and technical excellence among our students.</li>
+<li><strong>Metallurgical & Materials Engineering:</strong>Metallurgical and Materials Engineering break through the bottleneck, between today's challenges and tomorrow's solutions.</li>
+</ul>
+</div
+</div>
+<div class="section" id="faculty">
+<h2>Faculty Members</h2>
+<div class="faculty">
+<ul>
+<li><strong>Dr. Jayasree P K</strong> -HOD Chemical </li>
+<li><strong>Dr. Binu M Issac</strong> -HOD Civil</li>
+<li><strong>Dr. Juby Mathew</strong> - HOD Computer Science</li>
+<li><strong>Dr.J R Anoop Raj</strong> -HOD Food Technology</li>
+<li><strong>Dr. Gee Varghese Titus</strong> -HOD Electronics&Communication</li>
+<li><strong>Dr. Roshan Kuruvila</strong>-HOD Mechanical</li>
+</ul>
+</div
+</div>
+<div class="section" id="library">
+<h2>library</h2>
+<div class="library">
+<p>The Central Library of Amal Jyothi College of Engineering, Kanjirapally was set up in 2001 to support the educational mission
+ of the College and fulfill the information needs of diverse user communities. In accordance with the objective of the College, 
+the library aims to develop a comprehensive collection of documents useful for researchers, the faculty and the student community.</p>
+</div>
+</div>
+<center><p><h4 style="color:red;">END OF THE PAGE</h4></center>
+<center><a href="college.html #top">CLICK HERE</center>
+</body>
+</html>
